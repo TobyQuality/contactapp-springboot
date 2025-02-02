@@ -1,0 +1,53 @@
+# Node.js/Frontend (TypeScript)
+##########################
+# Dependency directories
+/node_modules/
+/frontend/node_modules/
+/frontend/.next/
+/frontend/.out/
+
+# Build directories
+/frontend/dist/
+/frontend/build/
+
+# VS Code settings (if using VS Code)
+.vscode/
+
+# Log files
+frontend/npm-debug.log
+frontend/yarn-debug.log
+frontend/yarn-error.log
+
+# Environment files (don't commit sensitive data)
+frontend/.env
+frontend/.env.local
+frontend/.env.*.local
+
+# TypeScript build output
+frontend/*.tsbuildinfo
+
+# Spring Boot / Backend
+#######################
+# Java build directories
+/backend/target/
+.backend/.mvn/
+
+# IntelliJ IDEA (IDE specific files)
+.idea/
+
+# Eclipse (IDE specific files)
+.project
+.classpath
+.settings/
+
+# Maven logs
+backend/*.log
+
+# Environment files (don't commit sensitive data)
+.backend/.env
+.backend/.env.local
+.backend/.env.*.local
+
+# OS-specific files
+.DS_Store
+Thumbs.db
