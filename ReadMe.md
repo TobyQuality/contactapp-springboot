@@ -2,7 +2,7 @@
 
 ### Overview
 
-##### ContactApp is a full-stack web application built to showcase my skills in Spring Boot, PostgreSQL, and TypeScript. This application allows users to manage their contacts through a user-friendly interface.
+ContactApp is a full-stack web application built to showcase my skills in Spring Boot, PostgreSQL, and TypeScript. This application allows users to manage their contacts through a user-friendly interface.
 
 ### Live Demo
 
