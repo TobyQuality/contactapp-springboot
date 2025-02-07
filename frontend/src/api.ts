@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_URL = "https://contactapp-springboot.onrender.com/";
+const API_URL = "https://contactapp-springboot.onrender.com/contacts";
 
 export interface Contact {
   id?: number;
