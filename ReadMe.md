@@ -6,9 +6,9 @@ ContactApp is a full-stack web application built to showcase my skills in Spring
 
 ### Live Demo
 
-##### Frontend: https://contactapp-springboot-frontend.onrender.com/
+#### Frontend: https://contactapp-springboot-frontend.onrender.com/
 
-##### Backend: https://contactapp-springboot.onrender.com
+#### Backend: https://contactapp-springboot.onrender.com
 
 ### Features
 
@@ -16,7 +16,7 @@ ContactApp is a full-stack web application built to showcase my skills in Spring
 
 ### Tech Stack
 
-##### Backend:
+#### Backend:
 
 Spring Boot (Java)
 
@@ -28,7 +28,7 @@ Spring Web
 
 Docker (for deployment)
 
-##### Frontend:
+#### Frontend:
 
 React (with TypeScript)
 
@@ -40,7 +40,7 @@ Tailwind CSS (for styling)
 
 ### Setup Instructions
 
-##### Backend (Spring Boot)
+#### Backend (Spring Boot)
 
 Clone the repository:
 
@@ -57,7 +57,7 @@ Build and run the backend:
 
 ./mvnw spring-boot:run
 
-##### Frontend (React + TypeScript)
+#### Frontend (React + TypeScript)
 
 Clone the frontend repository:
 
@@ -76,7 +76,7 @@ Start the frontend:
 
 npm run dev
 
-##### API Endpoints
+#### API Endpoints
 
 Base URL: https://contactapp-springboot.onrender.com
 
