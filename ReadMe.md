@@ -12,7 +12,12 @@ ContactApp is a full-stack web application built to showcase my skills in Spring
 
 ### Features
 
-✅ Full CRUD operations (Create, Read, Update, Delete) for managing contacts✅ RESTful API with Spring Boot backend✅ PostgreSQL database integration✅ Secure API handling with CORS setup✅ TypeScript frontend with React✅ Deployed using Render
+✅ Full CRUD operations (Create, Read, Update, Delete) for managing contacts
+✅ RESTful API with Spring Boot backen
+d✅ PostgreSQL database integration
+✅ Secure API handling with CORS setup
+✅ TypeScript frontend with React
+✅ Deployed using Render
 
 ### Tech Stack
 
