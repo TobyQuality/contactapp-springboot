@@ -54,7 +54,7 @@ Tailwind CSS (for styling)
 
 Clone the repository:
 
-git clone https://github.com/YOUR_GITHUB/contactapp-backend.git
+git clone https://github.com/tobyquality/contactapp-backend.git
 cd contactapp-backend
 
 Create a .env file and configure database credentials:
@@ -71,7 +71,7 @@ Build and run the backend:
 
 Clone the frontend repository:
 
-git clone https://github.com/YOUR_GITHUB/contactapp-frontend.git
+git clone https://github.com/tobyquality/contactapp-frontend.git
 cd contactapp-frontend
 
 Install dependencies:
